@@ -1,0 +1,3 @@
+[submodule "batchspawner"]
+	path = batchspawner
+	url = https://github.com/jupyterhub/batchspawner
